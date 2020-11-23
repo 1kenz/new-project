@@ -17,6 +17,7 @@ function App() {
         >
           xkendx starting
         </a>
+        <p>Starting new project</p>
       </header>
     </div>
   );
