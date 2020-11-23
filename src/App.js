@@ -18,6 +18,7 @@ function App() {
           xkendx starting
         </a>
         <p>Starting new project</p>
+        <button>Click Me</button>
       </header>
     </div>
   );
